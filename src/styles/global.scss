@@ -1,0 +1,12 @@
+@import "./shared";
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: $color-background;
+  font-family: $font-family-base;
+}
+
+* {
+  box-sizing: border-box;
+}
