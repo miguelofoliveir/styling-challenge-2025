@@ -1,0 +1,40 @@
+// Font Import
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap");
+
+// Colors
+$color-primary: #07c06a;
+$color-background: #2d3e4e;
+$color-white: #ffffff;
+$color-disabled: #aaaaaa;
+
+// Typography
+$font-family-base: "Open Sans", sans-serif;
+$font-size-base: 19px;
+$font-size-title: clamp(32px, 3vw, 48px);
+
+// Spacing
+$spacing-base: 8px;
+$spacing-md: 30px 15px;
+$spacing-md-second: 0px 15px;
+$spacing-lg: 30px;
+$spacing-xl: 100px;
+
+// Layout
+$container-max-width: 1510px;
+$container-min-width: 768px;
+$breakpoint-tablet: 1200px;
+
+// Components
+$card-width: 364px;
+$card-height: 322px;
+$card-border-width: 15px;
+$button-height: 70px;
+$button-border-radius: 70px;
+
+// Grid
+$grid-gap: 18px;
+$grid-columns: 4;
+$grid-columns-tablet: 2;
+
+// Transitions
+$transition-default: all 0.3s ease;
